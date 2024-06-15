@@ -1,0 +1,10 @@
+#Create codes to visualize the simple deterministic equations leading to completely random results based on tiny deviation in starting condition.
+#Why are we doing this?? Well, the plots look mesmerizing and because we can!!!
+
+Some candidates :
+
+1. Logistic equation to simulate population dynamics : try 2d and 3d too!
+
+2. Lorentz Attractor (the butterfly pattern!)
+
+3. Fractals : Mandelbrot set, Koch curve, Sierpinski triangle
