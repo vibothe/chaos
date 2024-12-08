@@ -3,7 +3,8 @@
 
 Some candidates :
 
-1. Logistic equation to simulate population dynamics : try 2d and 3d too!
+1. Logistic equation to simulate population dynamics : try 2d and 3d too!  (Growth with limited resources and no predators)  ( Poincare plot)
+	1.a. Try Lotka-volterra equation : Predator-Prey dynamics! 
 
 2. Lorentz Attractor (the butterfly pattern!)
 
